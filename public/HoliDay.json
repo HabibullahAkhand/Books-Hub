@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/gWk8h85/maitheli-maitra-n-Z2c-Eh8-Qzcg-unsplash.jpg",
+      "place_name": "Sundarbans, Bangladesh",
+      "per_Night_Cost": 150,
+      "peaple": 2,
+      "No_Of_Days": 3
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/FKJqDY3/Bangkok.jpg",
+      "place_name": "Bangkok, Thailand",
+      "per_Night_Cost": 200,
+      "peaple": 2,
+      "No_Of_Days": 4
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/LYv1k8V/Bali.jpg",
+      "place_name": "Bali, Indonesia",
+      "per_Night_Cost": 180,
+      "peaple": 2,
+      "No_Of_Days": 5
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/TMQdN5t/Kuala-Lumpur.jpg",
+      "place_name": "Kuala Lumpur, Malaysia",
+      "per_Night_Cost": 170,
+      "peaple": 2,
+      "No_Of_Days": 4
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/P6FQwws/tron-le-w-Uk2-U5-Wirxg-unsplash.jpg",
+      "place_name": "Ho Chi Minh City, Vietnam",
+      "per_Night_Cost": 160,
+      "peaple": 2,
+      "No_Of_Days": 4
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/7S1q318/allphoto-bangkok-gt3g-K-Wob2g-unsplash.jpg",
+      "place_name": "Siem Reap, Cambodia",
+      "per_Night_Cost": 190,
+      "peaple": 2,
+      "No_Of_Days": 3
+    }
+  ]
+  
